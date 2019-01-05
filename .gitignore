@@ -2,6 +2,7 @@
 test/
 train/
 *.dat
+.idea/
 
 
 # Byte-compiled / optimized / DLL files
